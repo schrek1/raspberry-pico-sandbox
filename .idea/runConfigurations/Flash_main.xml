@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Flash main" type="MicroPythonConfigurationType" factoryName="MicroPython" path="C:\OSOBNI\programming\kotlin\untitled\main.py" runReplOnSuccess="yes">
+    <module name="untitled" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="MicroPython.StopREPL.Before.Run" enabled="true" />
+    </method>
+  </configuration>
+</component>
